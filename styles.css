@@ -1,0 +1,40 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 20px;
+}
+  
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    
+}
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+  
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+header {
+    height: 400px;
+    background-image: url("file:///C:/Users/chris/Downloads/lab-html-module-exercise-master/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+    background-position: center ;
+    
+}
+
+.searchbar {
+    height: 30px;
+}
+
+.section1 {
+    height: 400px;
+    background-image: url("file:///C:/Users/chris/Downloads/lab-html-module-exercise-master/lab-html-module-exercise-master/starter-code/images/forklift.svg")
+}
